@@ -1,0 +1,68 @@
+<Project>
+  <Name>TP_POO_ THWH</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>UML</Name>
+    <Language>Java</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Cliente</Name>
+        <Access>Public</Access>
+        <Location left="307" top="315" />
+        <Size width="290" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private string id_login</Member>
+        <Member type="Field">private lista listaParaAssistir</Member>
+        <Member type="Field">private lista listaJaAssistida</Member>
+        <Member type="Method">public boolean BuscaSerie(String nome, lista Lista)</Member>
+        <Member type="Method">public boolean BuscaGenero(String genero, lista Lista)</Member>
+        <Member type="Method">public boolean BuscaIdioma(String idioma, lista Lista)</Member>
+        <Member type="Method">public void AdicionarParaAssistir(serie Série)</Member>
+        <Member type="Method">public void AdicionarJaAssistida(serie Série)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Série</Name>
+        <Access>Public</Access>
+        <Location left="869" top="102" />
+        <Size width="198" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private String nome</Member>
+        <Member type="Field">private String idioma</Member>
+        <Member type="Field">private String genero</Member>
+        <Member type="Field">private int Visualizações</Member>
+        <Member type="Method">public void RegistroAssistido()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Lista</Name>
+        <Access>Public</Access>
+        <Location left="869" top="533" />
+        <Size width="198" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private list&lt;Série&gt; series</Member>
+        <Member type="Method">public void AdicionarSérie()</Member>
+        <Member type="Method">public void RemoverSerie()</Member>
+        <Member type="Method">public serie BuscaNome(String nome)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Association" first="0" second="2">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="1" second="0">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>
