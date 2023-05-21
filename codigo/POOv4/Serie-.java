@@ -43,7 +43,7 @@ public class Serie extends Midia {
         }
     }
 
-    public static ArrayList<Serie> lerSeries() {
+    protect static ArrayList<Serie> lerSeries() {
         // Lógica para ler as séries de algum lugar (arquivo, banco de dados, etc.)
         // Aqui você deve implementar a leitura das séries e retornar uma lista de objetos Serie
         // Exemplo:
