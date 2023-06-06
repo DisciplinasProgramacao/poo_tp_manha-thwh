@@ -3,7 +3,7 @@ Atualizado em 06/06/2023
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1.Implementação das classes Cliente, Serie e PlataformaStreaming como originalmente planejadas    | Thiago/Henrique ☑ |
+| 1. Implementação das classes Cliente, Serie e PlataformaStreaming como originalmente planejadas    | Thiago/Henrique ☑ |
 | 2. Atualização do diagrama original para contemplar requisito de carga de dados |   Thiago/Henrique ☑     |
 | 3. Implementação dos métodos para carga de dados de séries, clientes e audiência em funcionamento  |    Thiago/Henrique ☑   |
 | 4. Atualização do diagrama para abrigar o novo tipo de mídia: Filme |    Thiago/Henrique ☑   |
@@ -22,4 +22,4 @@ Atualizado em 06/06/2023
 | Tarefa      | Responsável |
 | ----------- | ----------- |
 | 1. Garantir a robustez do sistema principal    |  Thiago/Henrique ⛏ |
-| 2.Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ⛏ |
+| 2. Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ⛏ |
