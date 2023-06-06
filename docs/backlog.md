@@ -1,4 +1,4 @@
-# Backlog do  AppStreaming THWH
+# Backlog do  AppStreaming THWH ⛏
 Atualizado em 06/06/2023
 
 | Tarefa      | Responsável |
