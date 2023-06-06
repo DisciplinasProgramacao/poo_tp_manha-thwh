@@ -21,5 +21,5 @@ Atualizado em DD/MM/AAAA
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1. Garantir a robustez do sistema principal    |  |
-| 2.Implementação do protótipo de sistema cobrindo os requisitos   |  |
+| 1. Garantir a robustez do sistema principal    |  Thiago/Henrique |
+| 2.Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique |
