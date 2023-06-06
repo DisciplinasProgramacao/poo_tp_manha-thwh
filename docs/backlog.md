@@ -1,4 +1,4 @@
-# Backlog do  AppStreaming THWH ⛏
+# Backlog do  AppStreaming THWH ‽
 Atualizado em 06/06/2023
 
 | Tarefa      | Responsável |
@@ -21,5 +21,5 @@ Atualizado em 06/06/2023
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1. Garantir a robustez do sistema principal    |  Thiago/Henrique |
-| 2.Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique |
+| 1. Garantir a robustez do sistema principal    |  Thiago/Henrique ⛏ |
+| 2.Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ⛏ |
