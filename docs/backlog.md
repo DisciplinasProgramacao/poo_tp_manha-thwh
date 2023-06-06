@@ -3,7 +3,7 @@ Atualizado em DD/MM/AAAA
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1.Implementação das classes Cliente, Serie e PlataformaStreaming como originalmente planejadas    |  |
+| 1.Implementação das classes Cliente, Serie e PlataformaStreaming como originalmente planejadas    | Thiago/Henrique ☑ |
 | 2. Atualização do diagrama original para contemplar requisito de carga de dados |        |
 | 3. Implementação dos métodos para carga de dados de séries, clientes e audiência em funcionamento  |       |
 | 4. Atualização do diagrama para abrigar o novo tipo de mídia: Filme |       |
