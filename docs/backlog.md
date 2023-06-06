@@ -1,5 +1,5 @@
-# Backlog do Prime Streaming
-Atualizado em DD/MM/AAAA
+# Backlog do  AppStreaming THWH
+Atualizado em 06/06/2023
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
