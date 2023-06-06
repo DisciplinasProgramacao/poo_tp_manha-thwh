@@ -17,7 +17,7 @@ Atualizado em 06/06/2023
 
 ----
 
-## Tarefas pendentes (em ordem de prioridade)
+# Tarefas pendentes
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
