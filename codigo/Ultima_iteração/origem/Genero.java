@@ -10,5 +10,6 @@ enum Genero {
     DRAMA,        // Valor do tipo Genero para Drama
     POLICIAL,     // Valor do tipo Genero para Policial
     ROMANCE,      // Valor do tipo Genero para Romance
-    SUSPENSE;     // Valor do tipo Genero para Suspense
+    SUSPENSE,    // Valor do tipo Genero para Suspense
+    TERROR;
 }
