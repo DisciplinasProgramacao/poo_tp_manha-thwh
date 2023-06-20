@@ -13,6 +13,7 @@ Atualizado em 06/06/2023
 | 8. Implementação do sistema de avaliação de mídias: uma mídia tem sua avaliação média |    Thiago/Henrique ☑    |
 | 9. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  Thiago/Henrique ☑  |
 | 10. Um cliente não pode avaliar a mesma mídia duas vezes |  Thiago/Henrique ☑  |
+| 11. Testes e Depuração do código |  Wander ☑  |
 
 
 ----
