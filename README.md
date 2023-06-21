@@ -7,7 +7,8 @@ Apresentamos com entusiasmo o nosso software de streaming, o THWH. Com o trabalh
 * Henrique Carrara
 * Thiago Akhiro
 * Wander Buzatti
-
+* Hitalo Gabriel
+  
 ## Professores responsáveis
 
 * João Caram
