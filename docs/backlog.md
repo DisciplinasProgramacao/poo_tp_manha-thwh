@@ -11,16 +11,14 @@ Atualizado em 06/06/2023
 | 6. Implementação do cadastro de clientes, filmes e séries |Thiago/Henrique ☑|
 | 7. Salvar dados de clientes, filmes e séries |    Thiago/Henrique ☑    |
 | 8. Implementação do sistema de avaliação de mídias: uma mídia tem sua avaliação média |    Thiago/Henrique ☑    |
-| 9. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  Thiago/Henrique ☑  |
-| 10. Um cliente não pode avaliar a mesma mídia duas vezes |  Thiago/Henrique ☑  |
-| 11. Garantir a robustez do sistema principal    |  Thiago/Henrique ☑ |
-| 12. Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ☑ |
-| 13. Testes e Depuração do código |  Wander ☑  |
+| 9. Garantir a robustez do sistema principal    |  Thiago/Henrique ☑ |
+| 10. Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ☑ |
+| 11. Testes e Depuração do código |  Wander ☑  |
 ----
 
 # Tarefas pendentes
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 15. Um cliente não pode avaliar a mesma mídia duas vezes | TEMPO ❌  |
-| 16. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌  |
+| 12. Um cliente não pode avaliar a mesma mídia duas vezes | TEMPO ❌  |
+| 13. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌  |
