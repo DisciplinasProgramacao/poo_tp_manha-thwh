@@ -5,7 +5,6 @@ Apresentamos com entusiasmo o nosso software de streaming, o THWH. Com o trabalh
 ## Alunos integrantes da equipe
 
 * Henrique Carrara
-* Hitalo Gabriel 
 * Thiago Akhiro
 * Wander Buzatti
 
