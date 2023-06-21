@@ -14,7 +14,8 @@ Atualizado em 06/06/2023
 | 9. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  Thiago/Henrique ☑  |
 | 10. Um cliente não pode avaliar a mesma mídia duas vezes |  Thiago/Henrique ☑  |
 | 11. Testes e Depuração do código |  Wander ☑  |
-
+| 12. Garantir a robustez do sistema principal    |  Thiago/Henrique ☑ |
+| 13. Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ☑ |
 
 ----
 
@@ -22,5 +23,4 @@ Atualizado em 06/06/2023
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1. Garantir a robustez do sistema principal    |  Thiago/Henrique ⛏ |
-| 2. Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ⛏ |
+
