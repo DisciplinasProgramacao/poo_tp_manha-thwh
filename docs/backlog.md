@@ -22,4 +22,5 @@ Atualizado em 06/06/2023
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-
+| 15. Um cliente não pode avaliar a mesma mídia duas vezes | TEMPO ❌  |
+| 16. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌  |
