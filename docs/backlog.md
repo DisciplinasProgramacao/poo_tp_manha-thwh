@@ -13,7 +13,7 @@ Atualizado em 06/06/2023
 | 8. Implementação do sistema de avaliação de mídias: uma mídia tem sua avaliação média |    Thiago/Henrique ☑    |
 | 9. Garantir a robustez do sistema principal    |  Thiago/Henrique ☑ |
 | 10. Implementação do protótipo de sistema cobrindo os requisitos   |  Thiago/Henrique ☑ |
-| 11. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌  |
+| 11. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  Thiago/Henrique ☑  |
 
 ----
 
