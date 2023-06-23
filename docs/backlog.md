@@ -28,5 +28,5 @@ Atualizado em 06/06/2023
 | --------- | --------- |
 |Henrique| Completa |
 |Thiago| Completa |
-|Wander | Mínima em partes insignificntes |
-|Hítlo | Nenhum prticipção |
+|Wander | Mínima em partes insignificantes |
+|Hítlo | Nenhum participção |
