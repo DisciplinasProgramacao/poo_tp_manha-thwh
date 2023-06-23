@@ -24,7 +24,8 @@ Atualizado em 06/06/2023
 | 13. Clientes podem ser regulares ou especialistas, e estes últimos podem adicionar comentários à avaliação |  TEMPO ❌  |
 
 # Participação
-Thigo: Completa.
-Henrique: Completa.
-Wander: Mínima em partes insignificntes.
-Hítlo: Nenhum prticipção.
+|Thigo | Completa |
+| --------- | --------- |
+|Henrique| Completa |
+|Wander | Mínima em partes insignificntes |
+|Hítlo | Nenhum prticipção |
